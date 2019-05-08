@@ -316,3 +316,11 @@
   docs: "http://docs.plasmapy.org/"
   code_url: "https://github.com/PlasmaPy/plasmapy"
   contact: "Nick Murphy"
+  
+- name: "SunCASA"
+  html_url: "https://github.com/binchensun/suncasa"
+  description: "CASA-based Python package for reducing, analyzing, and visualizing solar dynamic spectroscopic imaging data at radio wavelengths"
+  logo: ""
+  docs: "http://www.ovsa.njit.edu/wiki/index.php/EOVSA_Data_Analysis_Tutorial"
+  code_url: "https://github.com/binchensun/suncasa"
+  contact: "Bin Chen, Sijie Yu"
